@@ -1,0 +1,1 @@
+"# aspnetcore-crud-authentication-scheme" 
